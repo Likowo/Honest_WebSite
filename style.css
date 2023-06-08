@@ -1,0 +1,31 @@
+.scrollbar{
+    border:solid 0.01px whitesmoke;
+    background-color:rgb(223, 182, 182);
+    height:42px;
+    padding-top:22px;
+    display:flex;
+    justify-content: space-around;
+    /* color:black; */
+}
+.arrow{
+    height:20px;
+}
+.navBar{
+    margin-top:18px;
+    height:25px;
+    display:flex;
+    justify-content: space-between;
+}
+.icon, .logo, .login{
+    width:35%;
+    border-width:.2px; 
+    display: flex;
+
+}
+.optionsContainer{
+    display:flex;
+    justify-content: space-around;
+}
+.options{
+​
+}
